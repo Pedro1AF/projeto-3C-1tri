@@ -1,9 +1,9 @@
-# Live Book
+# LifeBook
 
 ---------------------
 
 ## O que é? 
-Live Book é uma plataforma inovadora que visa democratizar o acesso à leitura, oferecendo uma experiência prática, portátil e acessível para todos. Nosso objetivo é tornar a leitura mais conveniente e acessível, independentemente de onde você esteja.
+LifeBook é uma plataforma inovadora que visa democratizar o acesso à leitura, oferecendo uma experiência prática, portátil e acessível para todos. Nosso objetivo é tornar a leitura mais conveniente e acessível, independentemente de onde você esteja.
 
 
 
