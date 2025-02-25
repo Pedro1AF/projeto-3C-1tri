@@ -11,7 +11,7 @@ LifeBook é uma plataforma inovadora que visa democratizar o acesso à leitura, 
 
 * ***Facilidade de Acesso: Queremos que todos tenham acesso fácil a uma vasta biblioteca de livros, sem barreiras geográficas ou financeiras.*** 
 
-* ***Praticidade e Portabilidade: Com o Live Book, você pode levar sua biblioteca para onde quiser, seja no seu smartphone, tablet ou computador.*** 
+* ***Praticidade e Portabilidade: Com o LifeBook, você pode levar sua biblioteca para onde quiser, seja no seu smartphone, tablet ou computador.*** 
 
 * ***Baixos Preços: Oferecemos livros a preços acessíveis, para que todos possam desfrutar de uma boa leitura sem preocupações com o custo.*** 
 
