@@ -36,7 +36,7 @@ LifeBook é uma plataforma inovadora que visa democratizar o acesso à leitura, 
 
 -------------------
 
-## Diagrama de Entidade e Reacionamento
+## Diagrama de Entidade e Relacionamento
 
 <img src="https://img.ge/ib/5JRXrvM88zSO6VW_1740264664.png" alt="DER" width="850px" height="500px">
 
