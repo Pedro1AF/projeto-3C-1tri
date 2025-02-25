@@ -32,7 +32,7 @@ LifeBook é uma plataforma inovadora que visa democratizar o acesso à leitura, 
 -------------------
 
 
-# Abaixo teremos atualizaçãoes sobre nosso projeto, diagramas UML e prototipos.
+# Abaixo teremos atualizações sobre nosso projeto, diagramas UML e prototipos.
 
 -------------------
 
